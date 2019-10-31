@@ -1,0 +1,32 @@
+1. Start a Campfire
+1.1 Build fire
+  1.1.1 Stack campfire
+    1.1.1.1 Place Kindling
+    1.1.1.2 Place Tinder
+    1.1.1.3 Place branches
+1.1.2 Ignite fire
+  1.1.2.1 Strike match
+  1.1.2.2 Light small piece of Kindling
+  1.1.2.3 Place burning kindling in kindling at base of fire
+  1.1.2.4 Increase airflow
+    1.1.2.4.1 Inhale
+    1.1.2.4.2 Exhale
+1.2 Location
+  1.2.1 Find location
+    1.2.1.1 Walk to clearing
+    1.2.1.2 Ascertain conditions
+      1.2.1.2.1 Observe overhangs
+      1.2.1.2.2 Observe dryness
+      1.2.1.2.3 Observe location of nearest water source
+  1.2.2 Prepare Location
+    1.2.2.1 Remove dry leaves and detritus from area
+    1.2.2.2 Designate area for fire bucket/nearest source of water
+    1.2.2.2 Construct fire pit
+      1.2.2.2.1 Determine size of fire
+      1.2.2.2.2 Mark off area
+      1.2.2.2.3 Clear pit
+      1.2.2.2.4 Place boundary stones
+1.3 Supplies
+  1.3.1 Fuel
+  1.3.2 Safety Supplies
+  1.3.3 Smores components
